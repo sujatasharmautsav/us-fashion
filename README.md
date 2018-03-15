@@ -1,3 +1,3 @@
 # us-fashion
 welcome to us-fashion.
-us-fashion includes php script, javascript programming language.
+us-fashion includes php, javascript programming language.
